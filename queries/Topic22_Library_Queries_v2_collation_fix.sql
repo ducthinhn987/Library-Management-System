@@ -25,7 +25,6 @@ USE library_management_db;
 -- database; run the whole script in ONE session so this line stays in effect.
 SET NAMES utf8mb4 COLLATE utf8mb4_unicode_ci;
 
-
 -- =====================================================================
 -- Q1. Which copies of a given title are currently available?
 -- Helped by: idx_book_title, idx_book_copy_status (Book_ID, Status)
