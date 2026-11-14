@@ -39,7 +39,6 @@ WHERE b.Title   = @title
   AND bc.Status = 'Available'          -- not Borrowed, Reserved, Damaged or Lost
 ORDER BY bc.Copy_ID;
 
-
 -- =====================================================================
 -- Q2. Which loans of one member are overdue today?
 --     (a copy is overdue when it has not been returned and its due date
