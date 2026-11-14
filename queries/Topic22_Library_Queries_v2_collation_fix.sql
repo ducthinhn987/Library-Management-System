@@ -2,7 +2,7 @@
 -- PROJECT : Topic 22 - Library Management System
 -- VERSION : 2 - adds SET NAMES ... COLLATE to avoid error 1267
 -- FILE    : The five queries the database must answer (Part 3, Topic 22)
--- DBMS    : MySQL 8.4 LTS | Tool: MySQL Workbench
+-- DBMS    : MySQL 8.4.11 | Tool: DBeaver26.2.2
 -- RUN     : Run database.sql first (it creates and fills
 --           library_management_db), then run this script.
 --
